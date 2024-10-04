@@ -20,33 +20,6 @@ import com.learnautomation.dataProvider.ConfigReader;
 
 public class Utility 
 {
-
-	/*
-	 * 	
-	 * waits
-	 * scroll
-	 * screenshot
-	 * highlighter
-	 * actions
-	 * select
-	 * click and sendKeys
-	 * switch
-	 * javascript
-	 * 
-	 */
-	
-	
-	/* complete this utility with below methods
-	 * 	
-	 * 		doubleclick
-	 * 		rightclick
-	 * 		dragDrop
-	 * 		mouseHover
-	 * 
-	 * 	
-	 */
-	
-	
 	public static void selectValueFromDropDown(WebDriver driver,By locator,String valueToSelect)
 	{
 		
